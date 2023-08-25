@@ -1,0 +1,48 @@
+{
+    "name": "react-native-international-phone-number",
+    "author": "Omurbek Mamytbekov (https://github.com/Omurbek1)",
+    "version": "0.4.12",
+    "description": "International mobile phone input component with mask for React Native",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "mobile",
+      "ios",
+      "android",
+      "react-native",
+      "expo",
+      "components",
+      "typescript",
+      "react-hook-form",
+      "mask-input",
+      "phone-input",
+      "international-number-phone",
+      "components",
+      "country-picker",
+      "country",
+      "flag",
+      "custom-lib"
+    ],
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/https://github.com/Omurbek1.git"
+    },
+    "bugs": {
+      "url": "https://github.com/Omurbek1/issues"
+    },
+    "homepage": "https://github.com/Omurbek1/react-native-internation-phone-number",
+    "peerDependencies": {
+      "react": "*",
+      "react-native": "*"
+    },
+    "dependencies": {
+      "react-native-country-picker-modal": "^2.0.0"
+    },
+    "devDependencies": {
+      "metro-react-native-babel-preset": "^0.61.0"
+    }
+  }
